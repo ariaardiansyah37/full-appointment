@@ -120,21 +120,21 @@
             </li><!-- End Profile Page Nav -->
 
             <li class="nav-item">
-                <a class="nav-link collapsed" href="<?=base_url('admin/view_jadwal_periksa')?>">
+                <a class="nav-link collapsed" href="<?=base_url('dokter/view_jadwal_periksa')?>">
                     <i class="ri ri-calendar-schedule-line"></i>
                     <span>Jadwal Periksa</span>
                 </a>
             </li><!-- End Jadwal Periksa Page Nav -->
 
             <li class="nav-item">
-                <a class="nav-link collapsed" href="<?=base_url('admin/view_periksa_pasien')?>">
+                <a class="nav-link collapsed" href="<?=base_url('dokter/view_periksa_pasien')?>">
                     <i class="ri ri-stethoscope-line"></i>
                     <span>Periksa Pasien</span>
                 </a>
             </li><!-- End Periksa Pasien Page Nav -->
 
             <li class="nav-item">
-                <a class="nav-link collapsed" href="<?=base_url('admin/view_riwayat_pemeriksaan')?>">
+                <a class="nav-link collapsed" href="<?=base_url('dokter/view_riwayat_pemeriksaan')?>">
                     <i class="ri ri-history-line"></i>
                     <span>Riwayat Pemeriksaan</span>
                 </a>
